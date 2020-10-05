@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">aplikasi kalkulator</string>
+    <string name="masukan_dua_angka">MASUKAN DUA ANGKA</string>
+    <string name="plus">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">/</string>
+    <string name="bersihkan">bersihkan</string>
+    <string name="hasil">HASIL</string>
+    <string name="jumlah">%1$s</string>
+    <string name="nol">0</string>
+    <string name="kosong"></string>
+</resources>
